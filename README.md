@@ -40,10 +40,9 @@ To run this project locally, follow these steps:
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/your-username/ai-content-creator.git
+git clone https://github.com/srushti-21/ai-content-creator.git
 cd ai-content-creator
 ```
-*(Replace `your-username` with your actual GitHub username)*
 
 **2. Create and activate a virtual environment:**
 ```bash
