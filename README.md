@@ -11,7 +11,7 @@ This project serves as a practical demonstration of fundamental LangChain concep
 - Building interactive user interfaces for AI applications with Streamlit.
 
 <!-- TODO: Add a screenshot of the running application! -->
-![App Screenshot](https://github.com/user-attachments/assets/eb25fcae-0612-4781-aded-0f4ee0c485f9)
+![App Screenshot](https://github.com/user-attachments/assets/4046dfb7-7c4b-4478-8cb9-d5926780bc87)
 ![App Screenshot](https://github.com/user-attachments/assets/f5238539-3135-4b05-abac-6ab14fc6b31d)
 
 ---
