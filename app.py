@@ -8,6 +8,20 @@ from chain import create_blog_chain, create_youtube_title_chain # import both fu
 load_dotenv()
 groq_api_key = os.getenv("GROQ_API_KEY")
 
+st.set_page_config(layout="wide", page_title="AI Content Creator")
+
+st.markdown("""
+    <style>
+    .block-container {
+        max-width: 1100px;
+        padding-top: 2rem;
+        padding-right: 2rem;
+        padding-left: 2rem;
+        padding-bottom: 2rem;
+    }
+    </style>
+""", unsafe_allow_html=True)
+
 # --- Initialize the chain ---
 
 # Create the chain once and store it in session state to avoid re-creating it on every script rerun.
